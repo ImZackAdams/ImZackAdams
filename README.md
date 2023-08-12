@@ -1,31 +1,32 @@
-<h1>Hello, I'm Zack! 👋</h1>
-Senior student in data science who loves analyzing data to uncover insights, solve real-world challenges, and make data-driven decisions.
-<br>
-<br>
-🎓 Education
-Pursuing a Bachelor's in Data Science, [University Name]
-🧰 Skills
-Languages: Python, SQL
-Tools: Tableau, Excel, Git, Scikit-Learn
-Other Technologies: 
-🎖 Certifications
-Business Analytics, University of Maryland, Global Campus
-Baseball Pitching Data Certificate, Rapsodo
-🚀 Projects
-NASA Deep Space Food Challenge: Worked on sustainable food production technologies for space missions.
-Track the Blue: Created a crowd-sourced police complaint system using SQL and PHP.
-📬 Connect With Me
-LinkedIn: Jsmith
-Email: Jsmith@Jsmith.com
-📜 More About Me
-Find more about my work, experiences, and insights by exploring my repositories or viewing my resume.
-<br>
-<br>
-Feel free to explore, fork, star, and contribute. If you'd like to connect or have any questions, don't hesitate to reach out!
+<h1>Hello, I'm Zack! 📊</h1>
+<p>Dedicated to unraveling the mysteries within data. A senior Data Science student passionate about turning numbers into narratives. Harnessing the power of data for informed decisions & innovation.</p>
 
+<h2>📘 Education</h2>
+<p>B.S. in Data Science at [University Name]</p>
 
+<h2>🛠 Skills & Tools</h2>
+<ul>
+    <li>Programming: Python, SQL, PHP</li>
+    <li>Data Visualization & Analysis: Tableau, Excel</li>
+    <li>Data Processing & Manipulation</li>
+</ul>
 
+<h2>🎖 Certifications</h2>
+<ul>
+    <li>Business Analytics, University of Maryland, Global Campus</li>
+    <li>Baseball Pitching Data Certificate, Rapsodo</li>
+</ul>
 
+<h2>📈 Featured Projects</h2>
+<ul>
+    <li><strong>Data Challenge - Team Defense Analysis:</strong> Engaged in an exploration of game situations involving defensive teammates with data-driven storytelling.</li>
+    <li><strong>NASA Deep Space Food Challenge:</strong> Explored sustainable food production for space with data-driven methodologies.</li>
+    <li><strong>Track the Blue:</strong> Created a SQL database for a crowd-sourced police complaint system.</li>
+</ul>
+
+<h2>🌐 Connect with Me</h2>
+<p><a href="https://www.linkedin.com/in/Jsmith" target="_blank">LinkedIn: Jsmith</a></p>
+<p><a href="mailto:Jsmith@Jsmith.com">Email: Jsmith@Jsmith.com</a></p>
 
 
 <!---
