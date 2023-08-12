@@ -2,13 +2,13 @@
 <p>Dedicated to unraveling the mysteries within data. A senior Data Science student passionate about turning numbers into narratives. Harnessing the power of data for informed decisions & innovation.</p>
 
 <h2>📘 Education</h2>
-<p>B.S. in Data Science at [University Name]</p>
+<p>B.S. in Data Science at UMGC</p>
 
 <h2>🛠 Skills & Tools</h2>
 <ul>
-    <li>Programming: Python, SQL, PHP</li>
-    <li>Data Visualization & Analysis: Tableau, Excel</li>
-    <li>Data Processing & Manipulation</li>
+    <li>Programming: Python, SQL</li>
+    <li>Tools: Tableau, Excel</li>
+  
 </ul>
 
 <h2>🎖 Certifications</h2>
