@@ -7,7 +7,7 @@
 <h2>🛠 Skills </h2>
 <ul>
     <li>Languages: Python, SQL</li>
-    <li>Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, MAatplotlib, Seaborn</li>
+    <li>Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn</li>
     <li>Tools: Tableau, Excel, Git, Jupyter</li>
   
 </ul>
@@ -26,8 +26,8 @@
 </ul>
 
 <h2>🌐 Connect with Me</h2>
-<p><a href="https://www.linkedin.com/in/Jsmith" target="_blank">LinkedIn: Jsmith</a></p>
-<p><a href="mailto:Jsmith@Jsmith.com">Email: Jsmith@Jsmith.com</a></p>
+<p><a href="https://www.linkedin.com/in/zack-adams-1a04a21b7/" target="">LinkedIn: Zack Adams</a></p>
+<p><a href="mailto:imzackadams@protonmail.com">Email: imzackadams@protonmail.com</a></p>
 
 
 <!---
