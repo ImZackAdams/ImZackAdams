@@ -22,7 +22,8 @@
 <ul>
     <li><strong>Data Challenge - Team Defense Analysis:</strong> Engaged in an exploration of game situations involving defensive teammates with data-driven storytelling.</li>
     <li><strong>NASA Deep Space Food Challenge:</strong> Explored sustainable food production for space with data-driven methodologies.</li>
-    <li><strong>Track the Blue:</strong> Created a SQL database for a crowd-sourced police complaint system.</li>
+    <li><strong>Track the Blue:</strong> Created and designed a SQL database for a crowd-sourced police complaint system. Minor contributions to web development.</li>
+    <li><strong>Hiring in Tech:</strong> Twitter/X bot developed to monitor and retweet posts pertaining to job opportunities in technology.</li>
 </ul>
 
 <h2>🌐 Connect with Me</h2>
