@@ -7,7 +7,8 @@
 <h2>🛠 Skills & Tools</h2>
 <ul>
     <li>Programming: Python, SQL</li>
-    <li>Tools: Tableau, Excel</li>
+    <li>Libraries/Frameworks: NumPy, Pandas, Scikit-Learn</li>
+    <li>Tools: Tableau, Excel, Git, Jupyter</li>
   
 </ul>
 
