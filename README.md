@@ -4,10 +4,10 @@
 <h2>📘 Education</h2>
 <p>B.S. in Data Science at UMGC</p>
 
-<h2>🛠 Skills & Tools</h2>
+<h2>🛠 Skills </h2>
 <ul>
-    <li>Programming: Python, SQL</li>
-    <li>Libraries/Frameworks: NumPy, Pandas, Scikit-Learn</li>
+    <li>Languages: Python, SQL</li>
+    <li>Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, MAatplotlib, Seaborn</li>
     <li>Tools: Tableau, Excel, Git, Jupyter</li>
   
 </ul>
