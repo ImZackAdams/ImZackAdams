@@ -6,7 +6,7 @@ Senior student in data science who loves analyzing data to uncover insights, sol
 Pursuing a Bachelor's in Data Science, [University Name]
 🧰 Skills
 Languages: Python, SQL
-Tools: Tableau, Excel, Git
+Tools: Tableau, Excel, Git, Scikit-Learn
 Other Technologies: 
 🎖 Certifications
 Business Analytics, University of Maryland, Global Campus
