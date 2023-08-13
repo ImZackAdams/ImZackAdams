@@ -1,5 +1,5 @@
 <h1>Hello, I'm Zack! 📊</h1>
-<p>Dedicated to unraveling the mysteries within data. A senior Data Science student passionate about turning numbers into narratives. Harnessing the power of data for informed decisions & innovation.</p>
+<p>Diving deep into datasets, I thrive on drawing out concealed insights and crafting accurate predictions. With a fervor for building, maintaining, and optimizing, my journey in Data Science is fueled by an insatiable curiosity and a penchant for problem-solving. By harnessing computational power and technology, I aim to transform chaotic data into structured, actionable intelligence. From finance and agriculture to sports analytics and retail, my aspirations are to employ data-driven strategies that innovate and inspire.</p>
 
 <h2>📘 Education</h2>
 <p>B.S. in Data Science at UMGC</p>
@@ -20,7 +20,7 @@
 
 <h2>📈 Featured Projects</h2>
 <ul>
-    <li><strong>Data Challenge - Team Defense Analysis:</strong> Engaged in an exploration of game situations involving defensive teammates with data-driven storytelling.</li>
+    <li><strong>SportsMEDIA Technology & Carnegie Mellon Data Challenge - Baseball Team Defense Analysis:</strong> Engaged in an exploration of game situations involving defensive teammates with data-driven storytelling.</li>
     <li><strong>NASA Deep Space Food Challenge:</strong> Explored sustainable food production for space with data-driven methodologies.</li>
     <li><strong>Track the Blue:</strong> Created and designed a SQL database for a crowd-sourced police complaint system. Minor contributions to web development.</li>
     <li><strong>Hiring in Tech:</strong> Twitter/X bot developed to monitor and retweet posts pertaining to job opportunities in technology.</li>
