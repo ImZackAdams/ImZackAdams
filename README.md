@@ -1,5 +1,5 @@
 <h1>Hello, I'm Zack! 📊</h1>
-<p>Diving deep into datasets, I thrive on drawing out concealed insights and crafting accurate predictions. With a fervor for building, maintaining, and optimizing, my journey in Data Science is fueled by an insatiable curiosity and a penchant for problem-solving. By harnessing computational power and technology, I aim to transform chaotic data into structured, actionable intelligence. From finance and agriculture to sports analytics and retail, my aspirations are to employ data-driven strategies that innovate and inspire.</p>
+<p>Passionate about unveiling hidden narratives within vast datasets, I specialize in extracting insights and formulating precise predictions. My journey in Data Science is characterized by a profound love for building, maintaining, and optimizing systems. An unyielding curiosity drives me, coupled with a dedication to harnessing computational capabilities to bring clarity to data's inherent complexities. With a keen interest spanning finance, agriculture, sports analytics, and retail, my mission is to leverage data's transformative power to pave the way for innovative advancements.</p>
 
 <h2>📘 Education</h2>
 <p>B.S. in Data Science at UMGC</p>
@@ -9,6 +9,7 @@
     <li>Languages: Python, SQL</li>
     <li>Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn</li>
     <li>Tools: Tableau, Excel, Git, Jupyter</li>
+    <li>I dabble in: HTML, CSS, JavaScript, C, PowerBI, Shiny objects</li>
   
 </ul>
 
