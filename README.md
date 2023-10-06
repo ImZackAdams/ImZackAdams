@@ -2,7 +2,7 @@
 <p>Passionate about unveiling hidden narratives within vast datasets, I specialize in extracting insights and formulating precise predictions. My journey in Data Science is characterized by a profound love for building, maintaining, and optimizing systems. An unyielding curiosity drives me, coupled with a dedication to harnessing computational capabilities to bring clarity to data's inherent complexities. With a keen interest spanning finance, agriculture, sports analytics, and retail, my mission is to leverage data's transformative power to pave the way for innovative advancements.</p>
 
 <h2>📘 Education</h2>
-<p>B.S. in Data Science at UMGC</p>
+<p>B.S. in Data Science at University of MAryland, Global Campus</p>
 
 <h2>🛠 Skills </h2>
 <ul>
