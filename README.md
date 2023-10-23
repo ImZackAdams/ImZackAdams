@@ -18,7 +18,10 @@
 <h2>🎖 Certifications</h2>
 <ul>
     <li>Business Analytics, University of Maryland, Global Campus</li>
-    <li>Baseball Pitching Data Certificate, Rapsodo</li>
+    <li>Baseball Pitching Data, Rapsodo</li>
+    <li>Machine Learning, University of Maryland Global Campus (2024)</li>
+    <li>AWS Certified Machined Learning - Specialty (2024)</li>
+    
 </ul>
 
 <h2>📈 Featured Projects</h2>
