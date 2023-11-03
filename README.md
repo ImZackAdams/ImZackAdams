@@ -11,7 +11,7 @@
     <li>Languages: Python, SQL </li>
     <li>Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Flask</li>
     <li>Tools: Tableau, Excel, Git, Jupyter</li>
-    <li>I dabble in: HTML, CSS, JavaScript, C, PowerBI, Shiny objects</li>
+    <li>I dabble in: ML/AI, data analysis, web development</li>
   
 </ul>
 
@@ -19,7 +19,7 @@
 <ul>
     <li>Business Analytics, University of Maryland, Global Campus</li>
     <li>Baseball Pitching Data, Rapsodo</li>
-    <li>Machine Learning, University of Maryland Global Campus (2024)</li>
+    <li>Machine Learning, University of Maryland, Global Campus (2024)</li>
     <li>AWS Certified Machined Learning - Specialty (2024)</li>
     
 </ul>
