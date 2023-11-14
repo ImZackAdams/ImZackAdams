@@ -11,7 +11,7 @@
     <li>Languages: Python, SQL </li>
     <li>Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Flask</li>
     <li>Tools: Tableau, Excel, Git, Jupyter</li>
-    <li>I dabble in: ML/AI, data analysis, web development</li>
+    <li>I dabble in: AI/ML, Data Analysis, Web Development</li>
   
 </ul>
 
