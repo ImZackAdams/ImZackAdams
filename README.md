@@ -1,5 +1,5 @@
 <h1>Hello, I'm Zack! 📊</h1>
-<p>Passionate about unveiling hidden narratives within vast datasets, I specialize in extracting insights and formulating precise predictions. My journey in Data Science is characterized by a profound love for building, maintaining, and optimizing systems. An unyielding curiosity drives me, coupled with a dedication to harnessing computational capabilities to bring clarity to data's inherent complexities. With a keen interest spanning finance, agriculture, sports analytics, and retail, my mission is to leverage data's transformative power to pave the way for innovative advancements.</p>
+<p>Technically skilled and innovative professional with expertise in software engineering and data analysis. Proficient in Python and SQL, with a strong interest in AI/ML and web development. Eager to contribute to a dynamic team, leveraging analytical skills and technical knowledge to drive solutions and efficiency.</p>
 
 <h2>📘 Education</h2>
 <p>B.S. Data Science at University of Maryland, Global Campus</p>
