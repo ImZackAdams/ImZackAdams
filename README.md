@@ -2,7 +2,11 @@
 <p>Technically skilled and innovative professional with expertise in software engineering and data analysis. Proficient in Python and SQL, with a strong interest in AI/ML and web development. Eager to contribute to a dynamic team, leveraging analytical skills and technical knowledge to drive solutions and efficiency.</p>
 
 <h2>📘 Education</h2>
-<p>B.S. Data Science at University of Maryland, Global Campus</p>
+<p>B.S. Applied IT at University of Maryland, Global Campus</p>
+<ul> 
+<li>Minor: Computer Science</li>
+<li>Minor: Data Science</li>
+</ul>
 <p>>3.7 GPA</p>
 <p>6x Dean's List</p>
 
