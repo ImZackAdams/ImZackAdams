@@ -7,7 +7,7 @@
 <li>Minor: Computer Science</li>
 <li>Minor: Data Science</li>
 </ul>
-<p>>3.7 GPA</p>
+<p>>3.8 GPA</p>
 <p>6x Dean's List</p>
 
 <h2>🛠 Skills </h2>
