@@ -36,12 +36,14 @@
     <li><strong>Hiring in Tech:</strong> Twitter/X bot developed to monitor and retweet posts pertaining to job opportunities in technology.</li>
 </ul>
 
+
+<!---
 <h2>🌐 Connect with Me</h2>
 <p><a href="https://www.linkedin.com/in/zack-adams-1a04a21b7/" target="">LinkedIn: Zack Adams</a></p>
 <p><a href="mailto:imzackadams@protonmail.com">Email: imzackadams@protonmail.com</a></p>
 
 
-<!---
+
 imZackAdams/imZackAdams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
