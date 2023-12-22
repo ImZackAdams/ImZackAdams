@@ -1,4 +1,4 @@
-<h1>Hello, I'm Zack! 📊</h1>
+<h1>Hello!</h1>
 <p>Technically skilled and innovative professional with expertise in software engineering and data analysis. Proficient in Python and SQL, with a strong interest in AI/ML and web development. Eager to contribute to a dynamic team, leveraging analytical skills and technical knowledge to drive solutions and efficiency.</p>
 
 <h2>📘 Education</h2>
