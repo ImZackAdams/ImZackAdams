@@ -24,7 +24,7 @@
     <li>Business Analytics, University of Maryland, Global Campus</li>
     <li>Baseball Pitching Data, Rapsodo</li>
     <li>Machine Learning, University of Maryland, Global Campus (2024)</li>
-    <li>AWS Certified Cloud Practitioner (2024)</li>
+    <li>AWS Solutions Architect (2024)</li>
     
 </ul>
 
