@@ -2,11 +2,7 @@
 <p>Technically skilled and innovative professional with expertise in software engineering and data analysis. Proficient in Python and SQL, with a strong interest in AI/ML and web development. Eager to contribute to a dynamic team, leveraging analytical skills and technical knowledge to drive solutions and efficiency.</p>
 
 <h2>📘 Education</h2>
-<p>B.S. Applied IT, University of Maryland, Global Campus</p>
-<ul> 
-<li>Minor: Computer Science</li>
-<li>Minor: Data Science</li>
-</ul>
+<p>B.S. Data Science, University of Maryland, Global Campus</p>
 <p>>3.8 GPA</p>
 <p>6x Dean's List</p>
 
@@ -23,7 +19,6 @@
 <ul>
     <li>Business Analytics, University of Maryland, Global Campus</li>
     <li>Baseball Pitching Data, Rapsodo</li>
-    <li>Machine Learning, University of Maryland, Global Campus (2024)</li>
     <li>AWS Solutions Architect (2024)</li>
     
 </ul>
