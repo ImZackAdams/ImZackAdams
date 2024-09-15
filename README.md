@@ -28,13 +28,13 @@ GPA: 3.8 | 6x Dean's List
   Instrumental in the development of data collection protocols using Arduino microcontrollers, enhancing operational efficiency under extreme conditions.
 
 - **Twitter/X Bot**  
-  Pioneered a social media bot that automates the tracking of technology job postings, leading to a reduction in job search time for users. [GitHub Repo](link-to-repo)
+  Pioneered a social media bot that automates the tracking of technology job postings, leading to a reduction in job search time for users. 
 
 - **Baltimore Law Chatbot**  
-  Engineered a user-centric web application promoting legal literacy on tenant and landlord rights, utilizing advanced NLP techniques to simulate conversational interactions. [GitHub Repo](link-to-repo)
+  Engineered a user-centric web application promoting legal literacy on tenant and landlord rights, utilizing advanced NLP techniques to simulate conversational interactions.
 
 - **Data Driven Baseball**  
-  Developed an end-to-end full stack web application using multimodal machine learning to predict baseball game outcomes based on lineups. [GitHub Repo](link-to-repo)
+  Developed an end-to-end full stack web application using multimodal machine learning to predict baseball game outcomes based on lineups.
 
 
 
