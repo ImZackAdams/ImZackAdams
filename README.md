@@ -1,43 +1,50 @@
-<h1>Hello!</h1>
-<p>Technically skilled and innovative professional with expertise in software engineering and data analysis. Proficient in Python and SQL, with a strong interest in AI/ML and web development. Eager to contribute to a dynamic team, leveraging analytical skills and technical knowledge to drive solutions and efficiency.</p>
-
-<h2>📘 Education</h2>
-<p>B.S. Data Science, University of Maryland, Global Campus</p>
-<p>>3.8 GPA</p>
-<p>6x Dean's List</p>
-
-<h2>🛠 Skills </h2>
-<ul>
-    <li>Languages: Python, SQL </li>
-    <li>Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Flask, Django</li>
-    <li>Tools: Tableau, Excel, Git, Jupyter</li>
-    <li>I dabble in: AI/ML, Data Analysis, Web Development</li>
-  
-</ul>
-
-<h2>🎖 Certifications</h2>
-<ul>
-    <li>Business Analytics, University of Maryland, Global Campus</li>
-    <li>Baseball Pitching Data, Rapsodo</li>
-    
-</ul>
-
-<h2>📈 Featured Projects</h2>
-<ul>
-    <li><strong>SportsMEDIA Technology & Carnegie Mellon Data Challenge - Baseball Team Defense Analysis:</strong> Engaged in an exploration of game situations involving defensive teammates with data-driven storytelling.</li>
-    <li><strong>NASA Deep Space Food Challenge:</strong> Explored sustainable food production for space with data-driven methodologies.</li>
-    <li><strong>Track the Blue:</strong> Created and designed a SQL database for a crowd-sourced police complaint system. Minor contributions to web development.</li>
-    <li><strong>Hiring in Tech:</strong> Twitter/X bot developed to monitor and retweet posts pertaining to job opportunities in technology.</li>
-</ul>
+<h1>Hey, Im Zack!</h1>
 
 
-<!---
+**Software Engineer | Data Analytics**
+
+Technically skilled and pragmatic professional with expertise in software engineering and data analysis. Proficient in Python and SQL, with a strong interest in AI/ML and web development. Eager to contribute to a dynamic team, leveraging analytical skills and technical knowledge to drive solutions and efficiency.
+
+## 📘 Education
+
+**B.S. Data Science, University of Maryland, Global Campus**  
+GPA: 3.8 | 6x Dean's List
+
+## 🛠 Skills
+
+- **Languages**: Python, SQL  
+- **Libraries/Frameworks**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Flask  
+- **Tools**: Tableau, Excel, Git, Jupyter  
+- **Areas of Expertise**: AI/ML, Data Analysis, Web Development
+
+## 🎖 Certifications
+
+- **Business Analytics** - University of Maryland, Global Campus (2023)  
+- **Baseball Pitching Data** - Rapsodo (2023)
+
+## 📈 Featured Projects
+
+- **NASA Deep Space Food Challenge**  
+  Instrumental in the development of data collection protocols using Arduino microcontrollers, enhancing operational efficiency under extreme conditions.
+
+- **Twitter/X Bot**  
+  Pioneered a social media bot that automates the tracking of technology job postings, leading to a reduction in job search time for users. [GitHub Repo](link-to-repo)
+
+- **Baltimore Law Chatbot**  
+  Engineered a user-centric web application promoting legal literacy on tenant and landlord rights, utilizing advanced NLP techniques to simulate conversational interactions. [GitHub Repo](link-to-repo)
+
+- **Data Driven Baseball**  
+  Developed an end-to-end full stack web application using multimodal machine learning to predict baseball game outcomes based on lineups. [GitHub Repo](link-to-repo)
+
+
+
+
 <h2>🌐 Connect with Me</h2>
 <p><a href="https://www.linkedin.com/in/zack-adams-1a04a21b7/" target="">LinkedIn: Zack Adams</a></p>
 <p><a href="mailto:imzackadams@protonmail.com">Email: imzackadams@protonmail.com</a></p>
 
 
-
+<!---
 imZackAdams/imZackAdams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
