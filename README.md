@@ -8,7 +8,7 @@ Technically skilled and pragmatic professional with expertise in software engine
 ## 📘 Education
 
 **B.S. Data Science, University of Maryland, Global Campus**  
-GPA: 3.8 | 6x Dean's List
+GPA: 3.8 | 6x President's List
 
 ## 🛠 Skills
 
