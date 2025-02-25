@@ -3,7 +3,9 @@
 
 **Software Engineer | Data Analytics**
 
-Technically skilled and pragmatic professional with expertise in software engineering and data analysis. Proficient in Python and SQL, with a strong interest in AI/ML and web development. Eager to contribute to a dynamic team, leveraging analytical skills and technical knowledge to drive solutions and efficiency.
+Results-driven technologist with a passion for turning complex problems into innovative, data-driven solutions. With a background spanning data science, machine learning, software development, and blockchain, I’ve built and deployed end-to-end systems that optimize processes, generate insights, and deliver measurable impact.
+
+I thrive in fast-paced, ambiguous environments where adaptability and creative problem-solving are essential. I'm proficient in a wide range of technologies—from Python, SQL, and Flask to blockchain protocols and artificial intelligence, with a focus on delivering practical, scalable solutions that drive real-world impact.
 
 ## 📘 Education
 
