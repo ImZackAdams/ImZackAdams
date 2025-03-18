@@ -1,4 +1,4 @@
-# Zachary Adams
+# Zack Adams
 **AI/ML Engineer**  
 [imZackAdams@protonmail.com](mailto:imZackAdams@protonmail.com)
 
