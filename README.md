@@ -1,18 +1,42 @@
-# Zack Adams
+# Zack Adams  
 **AI/ML Engineer**  
-[imZackAdams@protonmail.com](mailto:imZackAdams@protonmail.com)
+📍 Baltimore, MD • 📫 [imZackAdams@protonmail.com](mailto:imZackAdams@protonmail.com)
 
 ---
 
-## Summary
-Results-oriented Engineer with a background in business. Hands-on experience in artificial intelligence, machine learning, data analytics, and automation. Adept at optimizing workflows, automating processes, and deploying intelligent systems.
+## 🔧 About Me  
+Engineer with a passion for building smart, scalable systems. I work at the intersection of **machine learning**, **data engineering**, and **automation** — turning ideas into production-ready tools. Whether it's deploying edge-hosted AI agents or streamlining backend workflows, I focus on writing clean, modular code that solves real-world problems.
 
 ---
 
-## Skills & Tools
-- **Programming Languages:** Python, JavaScript  
-- **AI/ML Tools & Frameworks:** PyTorch, Hugging Face, Scikit-learn  
-- **Data Analytics & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Power BI, Tableau, Excel  
-- **Databases & Cloud:** SQL, Azure  
-- **DevOps & Platforms:** Docker, GitHub Actions, Git  
-- **Others:** HTML, CSS, Flask, Linux, APIs, Statistics, Jupyter  
+## ⚙️ Core Skills & Tools
+
+### 💻 Languages & Programming  
+- Python, JavaScript
+
+### 🧠 Machine Learning  
+- PyTorch, Hugging Face, Scikit-learn, Keras  
+- Fine-tuning, quantization, model deployment
+
+### 📊 Data Science & Analytics  
+- Pandas, NumPy, Matplotlib, Seaborn  
+- Power BI, Tableau, Excel, Statistical Analysis
+
+### ☁️ Infrastructure & Cloud  
+- SQL, Azure, Docker, GitHub Actions, Git
+
+### 🌐 Web & APIs  
+- Flask, RESTful APIs, HTML/CSS, Linux, Jupyter
+
+---
+
+## 🧠 Current Interests  
+- **Edge AI**: Running LLMs on local hardware  
+- **Autonomous Agents**: Building bots with memory and personality  
+- **Decentralized Infrastructure**: Web3 + AI + microservices  
+- **Real-World ML**: Shipping models that survive contact with users
+
+---
+
+Want to collaborate or jam on a weird project? Reach out ✌️  
+📫 [imZackAdams@protonmail.com](mailto:imZackAdams@protonmail.com)
