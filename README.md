@@ -5,7 +5,7 @@
 ---
 
 ## 🔧 About Me  
-Engineer with a passion for building smart, scalable systems. I work at the intersection of **machine learning**, **product engineering**, and **automation** turning ideas into production ready tools. Whether it's deploying edge-hosted AI agents or streamlining backend workflows, I focus on writing clean, modular code that solves real world problems.
+Engineer with a passion for building smart, scalable systems. I work at the intersection of **machine learning**, **product engineering**, and **automation** turning ideas into production ready tools. Whether it's deploying edge hosted AI agents or streamlining backend workflows, I focus on writing clean, modular code that solves real world problems.
 
 ---
 
