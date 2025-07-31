@@ -31,7 +31,7 @@ I prioritize clean architecture, fast iteration, and solving problems that actua
 
 ## 🚫 Featured Work (Private / Selective Release)
 
-Many of my projects are closed-source by design—focused on internal tooling, monetizable components, or ongoing systems. Highlights include:
+Many of my projects are closed-source by design and focused on internal tooling, monetizable components, or ongoing systems. Highlights include:
 
 - **Autonomous Agents**: LLM-driven bots with local inference, memory, and image generation  
 - **Decentralized SDKs**: JavaScript tooling for secure token payments on Solana  
