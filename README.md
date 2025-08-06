@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I’m a systems focused engineer who builds **intelligent, modular, and production grade tools**. My work sits at the intersection of **machine learning**, **backend engineering**, and **automation**—with a focus on clarity, efficiency, and real-world usability.
+I’m a systems focused engineer who builds **intelligent, modular, and production grade tools**. My work sits at the intersection of **machine learning**, **backend engineering**, and **automation**—with a focus on clarity, efficiency, and real world usability.
 
 I’ve built and shipped:
 - **LLM powered bots** running on edge hardware  
@@ -31,11 +31,11 @@ I prioritize clean architecture, fast iteration, and solving problems that actua
 
 ## 🚫 Featured Work (Private / Selective Release)
 
-Many of my projects are closed-source by design and focused on internal tooling, monetizable components, or ongoing systems. Highlights include:
+Many of my projects are closed source by design and focused on internal tooling, monetizable components, or ongoing systems. Highlights include:
 
-- **Autonomous Agents**: LLM-driven bots with local inference, memory, and image generation  
-- **Decentralized SDKs**: JavaScript tooling for secure token payments on Solana  
-- **Diagnostic CLI Utilities**: Python packages for debugging real-world HTTP/DNS edge cases  
+- **Autonomous Agents**: LLM driven bots with local inference, memory, and image generation  
+- **Decentralized SDKs**: JavaScript tooling for direct blockchain interactions  
+- **Diagnostic CLI Utilities**: Python packages for debugging real world HTTP/DNS edge cases  
 - **ML Applications**: Predictive pipelines for real-world outcomes (sports, legal, and behavioral domains)
 
 Detailed descriptions available upon request.
@@ -45,7 +45,7 @@ Detailed descriptions available upon request.
 ## 🔭 Current Focus
 
 - ⚙️ Lightweight, modular ML pipelines  
-- 🧠 Edge-hosted language models with memory  
+- 🧠 Edge hosted language models with memory  
 - 🤖 Agent workflows with tools and autonomy  
 - 💸 Dev tools at the intersection of AI and decentralized infra  
 
