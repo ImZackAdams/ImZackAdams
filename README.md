@@ -6,9 +6,10 @@
 
 ## 👋 About Me
 
+**"an AI engineer who abuses index.html until it looks like infra."**
+
 I build solution minded systems and tools with a philosophy of simple, lean, efficient, and practical.
 
-**Was once described as "an AI engineer who abuses index.html until it looks like infra."**
 
 I have shipped:
 * **Edge hosted LLM agents** that run cheaply and autonomously  
