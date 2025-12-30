@@ -4,9 +4,9 @@
 
 ## About Me
 
-I build solution-oriented AI and data systems with a focus on simplicity, efficiency, and real-world usability.
+I build solution-oriented AI and data systems with a focus on simplicity, efficiency, and real world usability.
 
-My work sits at the intersection of applied machine learning, data pipelines, and lightweight infrastructure. I gravitate toward systems that are lean by default, easy to reason about, and cheap to operate—often pushing logic to the edge or the browser when possible.
+My work sits at the intersection of applied machine learning, data pipelines, and lightweight infrastructure. I gravitate toward systems that are lean by default, easy to reason about, and cheap to operate often pushing logic to the edge or the browser when possible.
 
 I care less about hype and more about whether a system:
 - Ships cleanly
@@ -16,7 +16,7 @@ I care less about hype and more about whether a system:
 ## What I've Built
 
 I've shipped and maintained:
-- Edge-hosted AI agents designed to run autonomously with minimal infrastructure
+- Edge hosted AI agents designed to run autonomously with minimal infrastructure
 - Peer-to-peer systems that turn web browsers into distributed compute or communication networks
 - Browser-native SDKs and payment flows requiring no backend services
 - Python CLI tools published to PyPI for diagnosing real-world API and network issues
@@ -37,10 +37,10 @@ I've shipped and maintained:
 ## Selected Projects
 
 - **NyxMesh** - Browser-native distributed compute in a single HTML file using WebRTC coordination
-- **AIMless** - A 10KB peer-to-peer encrypted chat app in one HTML file with no server dependency
-- **NyxPay** - Browser-native payments toolkit with client-side wallet signing and static checkout flows
+- **AIMless** - A 10KB p2p encrypted chat app in one HTML file with no server dependency
+- **NyxPay** - Browser native payments toolkit with client-side wallet signing and static checkout flows
 - **PingPoint** - Python CLI for diagnosing DNS, TLS, and HTTP issues (published on PyPI)
-- **Nyx Bot Framework** - Edge-hosted automation agent using multi-model inference (active rewrite)
+- **Nyx Bot Framework** - Edge hosted automation agent using multimodel inference (active rewrite)
 - **Baltimore Law Bot** - NLP system transforming a 179-page housing law into structured, searchable answers
 - **Data-Driven Baseball** - Machine learning system predicting MLB outcomes using historical pitcher-batter splits and lineup data (Flask deployment)
 
@@ -49,7 +49,7 @@ I've shipped and maintained:
 ## Current Focus
 
 - Lightweight and modular AI/ML systems
-- Browser-native compute and peer-to-peer infrastructure
+- Browser native compute and peer-to-peer infrastructure
 - Edge-deployed language models with memory
 - Practical distributed and decentralized systems
 
