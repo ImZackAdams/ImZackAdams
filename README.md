@@ -1,6 +1,6 @@
 # Zack Adams
 
-**Machine Learning and Backend Systems Engineer** • 📍 Baltimore, MD • 📫 [imZackAdams@protonmail.com](mailto:ZackAdamsENG@protonmail.com)
+**Machine Learning and Backend Systems Engineer** • 📍 Baltimore, MD • 📫 [ZackAdamsENG@protonmail.com](mailto:ZackAdamsENG@protonmail.com)
 
 ## About Me
 
@@ -77,4 +77,4 @@ I have worked on:
 
 Open to interesting engineering problems, tooling work, machine learning systems, automation projects, and collaborations.
 
-📫 [imZackAdams@protonmail.com](mailto:ZackAdamsENG@protonmail.com)
+📫 [ZackAdamsENG@protonmail.com](mailto:ZackAdamsENG@protonmail.com)
