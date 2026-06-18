@@ -51,7 +51,7 @@ I have worked on:
 
 * **HopWarden / Customized Bitwarden Client POC** — Modified Bitwarden desktop and browser client work focused on WebAuthn and FIDO2 passkey behavior, custom AAGUID testing, Edge extension packaging, and Microsoft Entra validation.
 
-* **Local AI Agent** — Twitter/X content automation agent using local inference, prompt pipelines, and automated generation workflows without relying on hosted LLM APIs.
+* **Edge AI Agent** — Twitter/X content automation agent using local inference, prompt pipelines, and automated generation workflows without relying on hosted LLM APIs.
 
 * **GlassBox Inspect** — CLI tool for auditing datasets for structural integrity and data quality before downstream use, with CI friendly exit codes and machine readable output.
 
