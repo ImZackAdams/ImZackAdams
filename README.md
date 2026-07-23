@@ -23,7 +23,7 @@ Professional systems hacker, more or less.
 
 ## Current Work
 
-I currently work on enterprise systems and automation at Johns Hopkins, including:
+I currently work on enterprise systems and automation, including:
 
 * PowerShell automation for enterprise workflows
 * Microsoft Graph and Entra integrations
@@ -157,6 +157,6 @@ That still leaves plenty of room for weird auth experiments, autonomous agents, 
 
 ## Get in Touch
 
-I am open to engineering roles, interesting infrastructure problems, automation work, local AI projects, and collaborations.
+I am open to engineering roles, interesting infrastructure problems, automation work, AI projects, and collaborations.
 
 📫 [ZackAdamsENG@protonmail.com](mailto:ZackAdamsENG@protonmail.com)
