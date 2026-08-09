@@ -32,6 +32,7 @@ I currently work on enterprise systems and automation, including:
 * WebAuthn and FIDO2 authentication experiments
 * Local AI prototypes for security and infrastructure operations
 * PowerShell Universal applications and scheduled automation
+* Enterprise refactoring and rewrites
 
 ## What I Build
 
