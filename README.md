@@ -1,163 +1,74 @@
 # Zack Adams
 
-**Backend Systems Engineer | Infrastructure + AI/ML**
+**Backend and Infrastructure Engineer**
 
-📍 Baltimore, MD • 📫 [ZackAdamsENG@protonmail.com](mailto:ZackAdamsENG@protonmail.com)
+I build backend systems, infrastructure automation, security tools, and local AI applications with Python, PowerShell, SQL, and whatever else gets the job done.
 
-## About Me
+I work in enterprise systems, mostly around Microsoft identity, Windows infrastructure, PowerShell, passkeys, vulnerability intelligence, monitoring, and automation.
 
-I build backend systems, infrastructure tooling, automation workflows, and practical AI applications.
+Outside of work, I build networking tools, local AI experiments, browser based distributed systems, and other things that probably started with, “I wonder if this would work.”
 
-My work sits at the intersection of **Python, PowerShell, data engineering, enterprise infrastructure, security automation, and local AI**. I am especially interested in systems that ingest messy operational data, detect meaningful changes, expose useful interfaces, and help people make better decisions.
+I like software that is practical, easy to inspect, honest when it breaks, and useful enough that somebody might actually keep using it.
 
-I like software that is:
-
-* Explicit about its assumptions
-* Predictable and inspectable
-* Honest about failure
-* Useful from the command line
-* Easy to automate and operate
-* Powerful without becoming unnecessarily complicated
-
-Professional systems hacker, more or less.
-
-## Current Work
-
-I currently work on enterprise systems and automation, including:
-
-* PowerShell automation for enterprise workflows
-* Microsoft Graph and Entra integrations
-* Windows monitoring and change detection
-* Vulnerability intelligence ingestion and analysis
-* WebAuthn and FIDO2 authentication experiments
-* Local AI prototypes for security and infrastructure operations
-* PowerShell Universal applications and scheduled automation
-* Enterprise refactoring and rewrites
-
-## What I Build
+## What I’m Working On
 
 * Backend services and REST APIs
-* Python and PowerShell automation
-* Data ingestion and normalization pipelines
-* Monitoring and change detection systems
-* Security and vulnerability intelligence tooling
-* Semantic search and retrieval systems
-* Local LLM assistants and agent workflows
-* CLI tools for developers and analysts
-* Browser native and peer to peer experiments
-* CI friendly validation and reporting tools
+* Infrastructure and security automation
+* CISA KEV and CVE intelligence
+* Microsoft Entra ID and Microsoft Graph
+* PowerShell tools for enterprise systems
+* Local LLMs, semantic search, and retrieval
+* Data ingestion, validation, monitoring, and alerting
 
-## Selected Projects
-
-### Security Data Ingestion
-
-A local first vulnerability intelligence platform for ingesting, normalizing, analyzing, and semantically searching the CISA Known Exploited Vulnerabilities catalog.
-
-Includes:
-
-* Fault tolerant PowerShell ingestion
-* Raw source snapshots and normalized datasets
-* Baseline comparison and change detection
-* Structured alerts and reports
-* FAISS semantic search
-* Optional local querying through Ollama
-
-### Windows Release Health Monitor
-
-A PowerShell monitoring system that tracks Microsoft Windows Release Health issues across client and server products.
-
-The system detects changes between recurring runs, maintains a persistent baseline, and produces structured outputs for operational reporting and alerting.
-
-### HopWarden
-
-A customized Bitwarden client proof of concept focused on enterprise passkey recognition.
-
-Work includes:
-
-* WebAuthn and FIDO2 behavior
-* Custom AAGUID testing
-* Browser extension packaging
-* Microsoft Entra validation
-* Dependency automation
-* Maintaining a clean patch set against upstream
-
-### Kloppy
-
-A retro desktop gremlin assistant inspired by the downloadable desktop software of the late 1990s and early 2000s.
-
-Kloppy is designed as a local first desktop application with chat history, editable memory, personality settings, and cross platform distribution.
+## Projects
 
 ### PingPoint
 
-A Python command line tool for diagnosing DNS, TLS, HTTP, and API endpoint problems.
+A Python CLI for diagnosing DNS, SSL, HTTP, and API endpoint problems because “the internet is broken” is not a particularly useful error message.
 
-Published on PyPI and designed to turn common connectivity failures into clear, actionable diagnostic output.
+`Python` `Networking` `CLI` `PyPI` `HTTP` `DNS`
 
-### AIMless
+### Kloppy
 
-A tiny encrypted peer to peer chat application contained in a single HTML file.
+A local desktop AI assistant disguised as a strange retro office gremlin. It includes configurable memory, separate conversations, chat history, and local model support.
 
-AIMless communicates directly between browsers without a traditional backend server.
+`JavaScript` `Electron` `Local AI` `Desktop Software`
 
 ### NyxMesh
 
-A browser native distributed computing experiment using WebRTC to coordinate peer to peer workloads.
+An experiment in convincing browser tabs to become a distributed computer using WebRTC and peer resources.
+
+`JavaScript` `WebRTC` `Distributed Systems` `Browser Computing`
 
 ### NyxPay
 
-A local first browser payment SDK for Solana based payments, including wallet connections, balances, token transfers, payment links, and embeddable checkout flows.
+A local first Solana payment SDK with wallet connections, token transfers, balances, payment links, and embeddable checkout components.
 
-### GlassBox Inspect
+`JavaScript` `Solana` `Phantom` `SDK` `Payments`
 
-A zero configuration Python CLI for auditing CSV datasets before downstream use.
+## Toolbox
 
-It produces human readable findings, machine readable output, and CI friendly exit codes based on whether a dataset appears safe, questionable, or unsafe.
+**Languages:** Python, PowerShell, SQL, JavaScript
 
-## Core Stack
+**Backend and Data:** REST APIs, FastAPI, Flask, pandas, data pipelines, validation, scheduled workflows, monitoring, alerting
 
-**Languages**
+**Infrastructure:** Linux, Windows, Docker, Git, GitHub Actions, CI/CD, PowerShell Universal
 
-Python • PowerShell • SQL • JavaScript • HTML • CSS
+**Microsoft:** Microsoft Entra ID, Microsoft Graph, Windows Server, Active Directory
 
-**Backend and Data**
+**AI and Machine Learning:** Ollama, local LLMs, embeddings, Sentence Transformers, FAISS, vector search, semantic retrieval, scikit learn
 
-REST APIs • Data ingestion • Normalization • Validation • Structured outputs • Scheduled workflows • Monitoring • Alerting • CLI development
+**Security:** CISA KEV, CVE data, vulnerability intelligence, passkeys, authentication, security automation
 
-**Machine Learning and Local AI**
+## Background
 
-Sentence Transformers • FAISS • Embeddings • Vector search • Retrieval workflows • Ollama • Local inference • Prompt pipelines
+I have a Bachelor of Science in Data Science and a certificate in Business Analytics.
 
-**Infrastructure**
+Before moving into enterprise systems, I built AI agents, backend automation, browser payment tools, distributed computing experiments, and data products. Most of my interests live somewhere between infrastructure, backend engineering, security, and unconventional experiments.
 
-Linux • Windows • Docker • Git • GitHub Actions • CI/CD • PowerShell Universal • Azure
+## Connect
 
-**Enterprise and Security**
+* [LinkedIn](https://www.linkedin.com/in/imzackadams/)
+* [Email](mailto:ZackAdamsENG@protonmail.com)
 
-Microsoft Graph • Microsoft Entra • Active Directory • CISA KEV • Vulnerability intelligence • WebAuthn • FIDO2 • Bitwarden
-
-## Engineering Philosophy
-
-The best system is not always the largest or most abstract.
-
-I prefer small, composable tools with clear inputs, structured outputs, visible state, and understandable failure modes. A useful system should be easy to inspect, easy to automate, and boring enough to trust.
-
-That still leaves plenty of room for weird auth experiments, autonomous agents, serverless peer to peer chat, and browser payment rails.
-
-## Current Interests
-
-* Backend and infrastructure engineering
-* Enterprise automation
-* Security data engineering
-* Vulnerability intelligence
-* Local AI agents
-* Semantic search over operational data
-* Authentication and identity systems
-* CLI first developer tooling
-* Failure aware system design
-* Small software with unreasonable capabilities
-
-## Get in Touch
-
-I am open to engineering roles, interesting infrastructure problems, automation work, AI projects, and collaborations.
-
-📫 [ZackAdamsENG@protonmail.com](mailto:ZackAdamsENG@protonmail.com)
+I’m open to opportunities in backend engineering, infrastructure automation, systems engineering, security automation, data engineering, and applied AI.
